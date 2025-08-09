@@ -5,7 +5,7 @@ Mega Menu is a powerful navigation feature that displays large, organized dropdo
 ---
 
 ## 🚀 Features  
-- 🗂 **Multi Level Structure** : Supports multiple categories, subcategories and links for organized navigation.  
+- 📁 **Multi Level Structure** : Supports multiple categories, subcategories and links for organized navigation.  
 - 📱 **Fully Responsive** : Adapts seamlessly to all devices with mobile friendly collapsible menus.  
 - 🎨 **Customizable Design** : Built with Tailwind CSS for easy styling and theme changes.  
 - ⚡ **Lightweight and Fast** : Minimal HTML and Tailwind classes without heavy JavaScript dependencies.  
